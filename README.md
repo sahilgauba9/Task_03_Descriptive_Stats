@@ -1,4 +1,4 @@
-Task_03_Descriptive_Stats
+<h1> Task_03_Descriptive_Stats </h1>
 
 This project examines social media data from the 2024 U.S. Presidential Election through descriptive statistical analysis using three different techniques. The goal is to understand how performance, readability, and ease of use vary across methods.
 
@@ -43,4 +43,5 @@ Pure Python achieved similar outcomes but required considerably more manual effo
 
 Take on AI Tools:
 Modern AI assistants, including ChatGPT, often suggest Pandas-based solutions—and rightly so. Pandas offers a powerful balance of readability, flexibility, and performance, making it the most practical choice for day-to-day data analysis.
+
 
