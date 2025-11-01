@@ -1,4 +1,4 @@
-Task_03_Descriptive_Stats #heading 1
+Task_03_Descriptive_Stats
 
 This project examines social media data from the 2024 U.S. Presidential Election through descriptive statistical analysis using three different techniques. The goal is to understand how performance, readability, and ease of use vary across methods.
 
