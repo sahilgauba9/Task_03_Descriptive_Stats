@@ -10,7 +10,9 @@ This project examines social media data from the 2024 U.S. Presidential Election
 <h2> Repository Contents </h2>
 pure_python_stats.ipynb -	Implementation using only standard Python functions
 
+
 pandas_stats.ipynb -	Descriptive analysis built with Pandas
+
 
 polars_stats.ipynb - 	Analysis using the Polars library for performance comparison
 
